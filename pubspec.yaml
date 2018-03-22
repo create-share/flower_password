@@ -1,0 +1,4 @@
+name: flower_password
+
+dependencies:
+  crypto: ^2.0.2

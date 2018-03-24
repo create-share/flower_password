@@ -1,4 +1,7 @@
 name: flower_password
+version: 1.0.0+1
+author: Li Zhaoming <lizhaoming.china@outlook.com>
+description: A Dart library implementing flower password algorithms.
 
 dependencies:
   crypto: ^2.0.2
